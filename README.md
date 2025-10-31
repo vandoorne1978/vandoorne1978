@@ -25,7 +25,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/victorvandoorne" target="_blank">
+  <a href="https://github.com/vandoorne1978" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
   </a>
 </p>
