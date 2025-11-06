@@ -1,7 +1,7 @@
 <!-- Victor Van Doorne | GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Victor Van Doorne</h1>
-<h3 align="center">Full-Stack Developer • Systems Architect • Creator of “Foundation - Private” and “Workspace - Public”</h3>
+<h3 align="center">Web Application Developer SPA, REST, DB • Systems Architect • Creator of “Foundation - Private” and “Workspace - Private”</h3>
 
 <p align="center">
   🚀 Building a modern web based software ecosystem<br>
