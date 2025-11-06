@@ -1,7 +1,9 @@
 <!-- Victor Van Doorne | GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Victor Van Doorne</h1>
-<h3 align="center">Web Application Developer SPA, REST, DB (Full Stack Developer ?? Software Developer) • Systems Architect • Creator of “Foundation - Private” and “Workspace - Private”</h3>
+<h1 align="center">I'm Victor Van Doorne</h1>
+<h3 align="center">
+  Full-Stack Web Developer (SPA • REST • DB) • Systems Architect • Creator of “Foundation” & “Workspace”
+</h3>
 
 <p align="center">
   🚀 Building a modern web based software ecosystem<br>
@@ -14,21 +16,31 @@
 ### 🔭 Current Projects
 
 - 🏗️ **Foundation** — Web Application - SPA, REST, DB - Private
-- 💾 **Workspace** — Foundation Demo - Private
+- 💾 **Workspace**— Built From Foundation - <a href="https://github.com/vandoorne1978/workspace" target="_blank">Public</a>
 
 ---
 
-### 💬 Let’s Connect
+## 🤝 Let’s Connect
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vandoorne1978" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vandoorne1978" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/>
-  </a>
-</p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/victor-van-doorne-556a9622/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vandoorne1978" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.buymeacoffee.com/vandoorne1978" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
