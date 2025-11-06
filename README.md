@@ -13,8 +13,8 @@
 
 ### 🔭 Current Projects
 
-- 🏗️ **Foundation** — full-stack ecosystem with Angular 20+ & .NET 9 - Private
-- 💾 **Workspace** — Abstract solution builder - Public   
+- 🏗️ **Foundation** — Web Application - SPA, REST, DB - Private
+- 💾 **Workspace** — Foundation Demo - Private
 
 ---
 
