@@ -9,6 +9,7 @@
   🚀 Building a modern web based software ecosystem<br>
   🧠 Exploring full-stack architecture, automation, and creative side projects<br>
   ☕ Fueled by innovation 
+  💯 Pick 3 things you want to accomplish today. You'll be lucky to accomplish one. 😄
 </p>
 
 ---
